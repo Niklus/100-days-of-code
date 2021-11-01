@@ -1,0 +1,26 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+  background-color: antiquewhite;
+  margin: 50px;
+  text-align: center;
+}
+
+h1 {
+  color: #ca1c11;
+}
+
+a {
+  color: crimson;
+  text-decoration: none;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ol {
+  list-style: none;
+}
