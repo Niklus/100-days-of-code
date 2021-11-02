@@ -1,0 +1,45 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+  background-color: antiquewhite;
+  margin: 50px;
+  text-align: center;
+}
+
+h1 {
+  color: #ca1c11;
+}
+
+#description {
+  margin-bottom: 36px;
+}
+
+a {
+  color: crimson;
+  text-decoration: none;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 0 auto;
+}
+
+li {
+  background-color: brown;
+  color: #fff;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.daily-goal {
+  font-style: italic;
+  font-weight: bold;
+}
